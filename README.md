@@ -1,8 +1,4 @@
-Here’s the `README.md` file for your **Book Review API** project:
 
----
-
-````markdown
 # 📚 Book Review RESTful API
 
 A RESTful API built using **Node.js**, **Express.js**, **MongoDB**, and **JWT** for managing users, books, and reviews.
@@ -24,9 +20,9 @@ A RESTful API built using **Node.js**, **Express.js**, **MongoDB**, and **JWT** 
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/book-review-api.git
-cd book-review-api
-````
+git clone https://github.com/DarshD22/Book-Review-API
+cd Book-Review-API
+
 
 ### 2. Install dependencies
 
